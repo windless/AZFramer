@@ -1,0 +1,6 @@
+framework module AZFramer {
+  umbrella header "AZFramer-umbrella.h"
+
+  export *
+  module * { export * }
+}
