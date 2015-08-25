@@ -1,6 +1,6 @@
 # AZFramer
 
-[![CI Status](http://img.shields.io/travis/windless/AZFramer.svg?style=flat)](https://travis-ci.org/Abner Zhong/AZFramer)
+[![CI Status](http://img.shields.io/travis/windless/AZFramer.svg?style=flat)](https://travis-ci.org/windless/AZFramer)
 [![Version](https://img.shields.io/cocoapods/v/AZFramer.svg?style=flat)](http://cocoapods.org/pods/AZFramer)
 [![License](https://img.shields.io/cocoapods/l/AZFramer.svg?style=flat)](http://cocoapods.org/pods/AZFramer)
 [![Platform](https://img.shields.io/cocoapods/p/AZFramer.svg?style=flat)](http://cocoapods.org/pods/AZFramer)
