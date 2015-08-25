@@ -14,7 +14,7 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "D58BED7CA46B556234C0A644"
+               BlueprintIdentifier = "3183C21168B146EEDA7188CD"
                BuildableName = "AZFramer.framework"
                BlueprintName = "AZFramer"
                ReferencedContainer = "container:Pods.xcodeproj">
