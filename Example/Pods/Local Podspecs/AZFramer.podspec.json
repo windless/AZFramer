@@ -1,15 +1,15 @@
 {
   "name": "AZFramer",
   "version": "0.1.0",
-  "summary": "A short description of AZFramer.",
-  "description": "",
-  "homepage": "https://github.com/<GITHUB_USERNAME>/AZFramer",
+  "summary": "Add framer methods to UIView",
+  "description": "\"Add framer methods to UIVIew.\"",
+  "homepage": "https://github.com/windless/AZFramer",
   "license": "MIT",
   "authors": {
     "Abner Zhong": "windlessg@gmail.com"
   },
   "source": {
-    "git": "https://github.com/<GITHUB_USERNAME>/AZFramer.git",
+    "git": "https://github.com/windless/AZFramer.git",
     "tag": "0.1.0"
   },
   "platforms": {
